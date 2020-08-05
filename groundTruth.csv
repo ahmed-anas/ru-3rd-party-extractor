@@ -1,0 +1,16 @@
+packageName,displayName,licenseType,urlToLicense
+boto3,boto3 (python library),Licensed,https://github.com/boto/boto3/blob/develop/LICENSE
+botocore,botocore (python library),Licensed,https://github.com/boto/botocore/blob/develop/LICENSE.txt
+faker,Faker (python library),Licensed,https://github.com/joke2k/faker/blob/master/LICENSE.txt
+freezegun,freezegun (python library),Licensed,https://github.com/spulec/freezegun/blob/master/LICENSE
+google-api-python-client,Google-api-python-client (python library),Licensed,https://github.com/googleapis/google-api-python-client/blob/master/LICENSE
+google-auth-oauthlib,google-auth-oauthlib (python library),Licensed,https://github.com/googleapis/google-auth-library-python-oauthlib/blob/master/LICENSE
+jira,jira (Python library),Licensed,https://github.com/pycontribs/jira/blob/master/LICENSE
+lambda-common,lambda-common (Python library),Internal,
+mock,mock (python library),Licensed,https://github.com/testing-cabal/mock/blob/master/LICENSE.txt
+nose2,nose2 (python library),Licensed,https://github.com/nose-devs/nose2/blob/master/license.txt
+oauth2client,Oauth2client (python library),Licensed,https://github.com/googleapis/oauth2client/blob/master/LICENSE
+pylint,pylint (python library),Licensed,https://github.com/PyCQA/pylint/blob/master/COPYING
+requests,requests (python library),Licensed,https://github.com/psf/requests/blob/master/LICENSE
+xo-chat-client,xo-chat-client (python library),Internal,
+backoff,backoff (Python Library),Licensed,https://github.com/litl/backoff/blob/master/LICENSE
