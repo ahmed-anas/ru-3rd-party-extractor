@@ -49,7 +49,7 @@ module.exports = {
             let lines = []
             LineReader.eachLine(path, function (line) {
                 let splitLine = line.split('==');
-                if (splitLine.length !== 2) {
+                if (splitLine.length > 2) {
                     let errText = `could parse ${line} for package name. Splitting on '==', lenght was ${splitLine.length}. `;
                     reject(errText);
                     throw new Error(errText)

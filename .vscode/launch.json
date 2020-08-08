@@ -13,7 +13,17 @@
             ],
             "program": "${workspaceFolder}\\index.js",
             "console": "integratedTerminal"
-            
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Project Setup",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\project-setup.js",
+            "console": "integratedTerminal",
+            "args": ["deploy"]
         }
     ]
 }
